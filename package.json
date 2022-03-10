@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "--can-you-install",
+  "version": "1.0.3",
+  "description": "a general knowledge quiz",
+  "license": "MIT",
+  "author": {
+    "email": "mjy9088@naver.com",
+    "name": "Juyeong Maing",
+    "url": "https://github.com/mjy9088"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjy9088/--can-you-install.git"
+  },
+  "bugs": "https://github.com/mjy9088/--can-you-install/issues",
+  "homepage": "https://github.com/mjy9088/--can-you-install#readme"
+}
